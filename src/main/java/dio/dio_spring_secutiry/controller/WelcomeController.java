@@ -1,4 +1,4 @@
-package dio.dio_spring_secutiry;
+package dio.dio_spring_secutiry.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
